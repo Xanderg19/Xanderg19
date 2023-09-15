@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-¡Hola! Soy Hector Alfaro, un joven programador de 20 años con un ardiente deseo de aprender y sobresalir en el mundo de la tecnología. Estoy buscando mi primera experiencia laboral y estoy dispuesto a asumir desafíos. Mi enfoque es claro: convertirme en un desarrollador excepcional.
+¡Hola! Soy Hector Alfaro,  Estoy buscando mi primera experiencia laboral y estoy dispuesto a asumir desafíos. Mi enfoque es claro: convertirme en un desarrollador excepcional.
 
 
 ## 🌐 Social:
